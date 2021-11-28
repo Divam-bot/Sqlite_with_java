@@ -9,3 +9,5 @@ voila!! you are all set to go....
 
 follow code for creating new sqlite connection and database file, creating new table, inserting values and querying.
 
+Query Results:
+![](https://github.com/Divam-bot/Sqlite_with_java/blob/main/query_result.png)
